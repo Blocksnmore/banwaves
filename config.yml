@@ -1,0 +1,6 @@
+# Banwaves A plugin by Blocks_n_more#5526
+
+# Use %user% as the player placeholder
+# Also don't put a / in the command
+
+banwave1: "ban %user% Banwave"

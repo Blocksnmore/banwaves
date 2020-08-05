@@ -1,0 +1,15 @@
+name: banwaves
+main: io.github.blocksnmore.banwaves.Main
+version: 1.0.0
+author: Blocks_n_more#5526 on discord
+commands:
+   banwave:
+      description: banwaves command
+      
+permissions:
+  banwave.use:
+    description: The perm to use /banwaves
+    default: op
+  banwave.run:
+    description: force activate a banwave
+    default: op
